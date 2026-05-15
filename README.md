@@ -1,3 +1,5 @@
+**run it just with python all_numbers.py** or whatever your python version and/or filepath is xoxo
+
 If you asked for the bathroom code at a coffee shop and the 4 digit code they gave you was your birthday, you'd be a little weirded out. You'd probably also notice if it was your mom's birthday. I'd be suspicious if it was my debit card PIN number or my bike lock combo, too. I wouldn't necessarily be freaked out in the same way, but I'd probably recognize if it were the last 4 digits of my phone number.
 
 How many numbers would you notice? We scan so many numbers every day in addresses and phone numbers and passcodes and dates and queue numbers at the sandwich shop, but which ones would make you stop and go hmmmmmmm, that's the course code for a class I took! 
